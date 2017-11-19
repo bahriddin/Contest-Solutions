@@ -4,7 +4,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * @Solution
+ * Url: http://codeforces.com/problemset/problem/337/A
+ * Solution:
  * 1) sort array
  * 2) find min difference in the range of n elements
  */
